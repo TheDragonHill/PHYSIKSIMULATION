@@ -1,0 +1,4 @@
+Linker Mausklick: Satelliten spawnen
+Leertaste: Impuls von der Erde
+
+Ziel: Die Asteroiden dürfen nicht auf die Erde und deshalb müssen die Satelliten die Erde schützen und können von der Erde abgestoßen werden 
